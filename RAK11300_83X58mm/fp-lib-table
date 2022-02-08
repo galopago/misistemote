@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RAKWIRELESS)(type KiCad)(uri ${KIPRJMOD}/modules/RAKWIRELESS.pretty)(options "")(descr ""))
+)

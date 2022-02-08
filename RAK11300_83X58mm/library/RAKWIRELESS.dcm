@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RAK11300
+D LoRa Module, RP2040,  RAKWIRELESS
+K IoT, LoRa, LoRaWAN, RF
+F https://site-file.fomillesite.com/1260815565112336386/1427562149389201410.pdf
+$ENDCMP
+#
+#End Doc Library
