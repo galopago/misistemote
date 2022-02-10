@@ -6348,7 +6348,7 @@
   )
 
   (module MountingHole:MountingHole_3mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5EED7FD5)
-    (at 104.5 129)
+    (at 105 129)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5EED2E39)
@@ -6368,7 +6368,7 @@
   )
 
   (module MountingHole:MountingHole_3mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5EED7FED)
-    (at 185.5 129)
+    (at 185 129)
     (descr "Mounting Hole 3mm, no annular")
     (tags "mounting hole 3mm no annular")
     (path /5EED3A44)
@@ -6388,10 +6388,10 @@
   )
 
   (gr_line (start 110.5789 102.9843) (end 110.5789 103.2002) (layer F.SilkS) (width 0.5) (tstamp 6204D58F))
-  (gr_text "MCU PROTO 100x68mm" (at 103.9749 134.6327 90) (layer B.SilkS) (tstamp 6192D8D6)
+  (gr_text "MCU PROTO 100x68mm" (at 108.4072 142.0114 90) (layer B.SilkS) (tstamp 6192D8D6)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "MCU PROTO 100x68mm\n\n" (at 102.6541 133.4643 90) (layer F.SilkS)
+  (gr_text "MCU PROTO 100x68mm\n\n" (at 108.8517 117.9068 90) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
   )
   (gr_arc (start 190 158) (end 190 148) (angle -90) (layer Edge.Cuts) (width 0.05))
