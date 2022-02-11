@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 374)
+    (drawings 373)
     (tracks 904)
     (zones 0)
     (modules 333)
@@ -8572,7 +8572,6 @@
   (gr_line (start 118.0846 104) (end 118.0846 104.5) (layer F.SilkS) (width 0.6) (tstamp 6205C77E))
   (gr_line (start 115.5446 104) (end 115.5446 104.5) (layer F.SilkS) (width 0.6) (tstamp 6205C77C))
   (gr_line (start 113.0046 104) (end 113.0046 104.5) (layer F.SilkS) (width 0.6) (tstamp 6205C678))
-  (gr_line (start 106.4133 102.9716) (end 106.4133 103.1875) (layer F.SilkS) (width 0.5) (tstamp 6204D58F))
   (gr_text "MCU PROTO 100x68mm" (at 106.3879 140.8303 90) (layer B.SilkS) (tstamp 6192D8D6)
     (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
