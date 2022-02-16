@@ -93,20 +93,14 @@ $EndComp
 $Comp
 L Connector:Conn_01x01_Male J12
 U 1 1 61938D6F
-P 7300 2100
-F 0 "J12" H 7408 2281 50  0000 C CNN
-F 1 "Conn_01x01_Male" H 7408 2190 50  0000 C CNN
-F 2 "Connector_Wire:SolderWirePad_1x01_Drill0.8mm" H 7300 2100 50  0001 C CNN
-F 3 "~" H 7300 2100 50  0001 C CNN
-	1    7300 2100
+P 7300 2300
+F 0 "J12" H 7408 2481 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 7408 2390 50  0000 C CNN
+F 2 "Connector_Wire:SolderWirePad_1x01_Drill0.8mm" H 7300 2300 50  0001 C CNN
+F 3 "~" H 7300 2300 50  0001 C CNN
+	1    7300 2300
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	7500 1950 7600 1950
-Wire Wire Line
-	7600 1950 7600 2100
-Wire Wire Line
-	7600 2100 7500 2100
 $Comp
 L Connector:Conn_01x20_Female J7
 U 1 1 619361D7
@@ -197,12 +191,31 @@ $EndComp
 $Comp
 L Connector:Conn_01x20_Female J4
 U 1 1 6217E1D9
-P 6100 2550
-F 0 "J4" H 6128 2526 50  0000 L CNN
-F 1 "Conn_01x20_Female" H 5900 1350 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical" H 6100 2550 50  0001 C CNN
-F 3 "~" H 6100 2550 50  0001 C CNN
-	1    6100 2550
+P 6050 2550
+F 0 "J4" H 6078 2526 50  0000 L CNN
+F 1 "Conn_01x20_Female" H 5850 1350 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical" H 6050 2550 50  0001 C CNN
+F 3 "~" H 6050 2550 50  0001 C CNN
+	1    6050 2550
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:Conn_01x20_Female J5
+U 1 1 620C51CD
+P 5700 2550
+F 0 "J5" H 5728 2526 50  0000 L CNN
+F 1 "Conn_01x20_Female" H 5500 1350 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical" H 5700 2550 50  0001 C CNN
+F 3 "~" H 5700 2550 50  0001 C CNN
+	1    5700 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 1950 7750 1950
+Wire Wire Line
+	7750 1950 7750 2300
+Wire Wire Line
+	7750 2300 7500 2300
+Text Notes 5700 1450 0    50   ~ 0
+RPI\nZERO
 $EndSCHEMATC
