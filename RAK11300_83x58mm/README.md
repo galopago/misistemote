@@ -34,7 +34,7 @@ All of the pins of the module are routed to pcb pads, also, space for 2 AA size 
 
 Image sensor sees through the transparent enclosure
 
-![MODULE](assets/img/sensor.jpg)
+![MODULE](assets/img/module.jpg)
 
 Female headers used to raise the image sensor as close to the case as possible. There is now some free space for additional electronics.
 
