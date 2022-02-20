@@ -4,11 +4,11 @@ The board is designed to fits inside a generic waterproof enclosure compatible w
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
-Here is the layout of the PCB
+Here is the layout of the PCB.
 
 ![MODULE](assets/img/pinout.svg)
 
-The module could be placed vertical to maximize square shaped free area, for additional modules, lipo batteries, etc.
+The module could be placed vertical to maximize square shaped free area, for additional modules, lipo batteries, etc. There is no room for the SD card in this configuration.
 
 ![MODULE](assets/img/vertical.jpg)
 
