@@ -21,7 +21,7 @@ The PCB was developed in KiCad V5.1,
 
 ## Vertical
 
-The module could be placed vertically to maximize square shaped free area, for additional modules, LiPo batteries, etc. There is no room for the SD card in this configuration.
+The module could be placed vertically to maximize square shaped free area, for additional modules, LiPo batteries, etc.
 
 ![MODULE](assets/img/vertical.jpg)
 
