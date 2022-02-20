@@ -15,13 +15,17 @@ The PCB was developed in KiCad V5.1,
 * /gerber folder contains ready to manufacture files.
 * /assets folder contains support files for reade.md
 
-Here is the layout of the PCB.
+## PCB layout
 
 ![MODULE](assets/img/pinout.svg)
+
+## Vertical
 
 The module could be placed vertical to maximize square shaped free area, for additional modules, lipo batteries, etc. There is no room for the SD card in this configuration.
 
 ![MODULE](assets/img/vertical.jpg)
+
+## Horizontal
 
 The board also could be placed horizontal to make room for a cylindrical battery cell.
 
