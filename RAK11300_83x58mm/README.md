@@ -20,17 +20,17 @@ The PCB was developed in KiCad V5.1,
 
 ![MODULE](assets/img/pinout.svg)
 
-## Vertical
+## Back
 
-The module could be placed vertically to maximize square shaped free area, for additional modules, LiPo batteries, etc.
+The stamp sytle module is placed on the back of the card.
 
-![MODULE](assets/img/vertical.jpg)
+![MODULE](assets/img/back.jpg)
 
-## Horizontal
+## Front
 
-The board also could be placed horizontally to make room for a cylindrical battery cell.
+All of the pins of the module are routed to pcb pads, also, space for 2 AA size battery holder .
 
-![MODULE](assets/img/horizontal.jpg)
+![MODULE](assets/img/front.jpg)
 
 Image sensor sees through the transparent enclosure
 
