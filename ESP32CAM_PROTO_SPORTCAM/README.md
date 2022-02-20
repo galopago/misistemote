@@ -1,6 +1,6 @@
 # ESP32-CAM HOST BOARD THAT FITS INSIDE WATERPROOF SPORTSCAM HOUSING
 
-The board is designed to fits inside a generic waterproof enclosure compatible with cameras like Go Pro hero 3, SJCAM SJ400, etc. 
+The board is designed to fit inside a generic waterproof enclosure compatible with cameras like Go Pro hero 3, SJCAM SJ400, etc. 
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
@@ -21,17 +21,17 @@ The PCB was developed in KiCad V5.1,
 
 ## Vertical
 
-The module could be placed vertical to maximize square shaped free area, for additional modules, lipo batteries, etc. There is no room for the SD card in this configuration.
+The module could be placed vertically to maximize square shaped free area, for additional modules, LiPo batteries, etc. There is no room for the SD card in this configuration.
 
 ![MODULE](assets/img/vertical.jpg)
 
 ## Horizontal
 
-The board also could be placed horizontal to make room for a cylindrical battery cell.
+The board also could be placed horizontally to make room for a cylindrical battery cell.
 
 ![MODULE](assets/img/horizontal.jpg)
 
-Sensor is placed in the area designed for camera lens
+Image sensor is placed in the area designed for camera lenses
 
 ![MODULE](assets/img/sensor.jpg)
 
