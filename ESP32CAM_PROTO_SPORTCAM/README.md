@@ -4,4 +4,8 @@ The board is designed to fits inside a generic waterproof enclosure compatible w
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
+Here is the layout of the PCB
+
 ![MODULE](assets/img/pinout.svg)
+
+
