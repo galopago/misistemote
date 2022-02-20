@@ -31,11 +31,11 @@ The board also could be placed horizontally to make room for a cylindrical batte
 
 ![MODULE](assets/img/horizontal.jpg)
 
-Image sensor is placed in the area designed for camera lenses
+Image sensor sees through the transparent enclosure
 
 ![MODULE](assets/img/sensor.jpg)
 
-On the back of the PCB there is enough free space for a bigger battery or additional electronics.
+Female headers used to raise the image sensor as close to the case as possible. There is now some free space for additional electronics.
 
 ![MODULE](assets/img/space.jpg)
 
