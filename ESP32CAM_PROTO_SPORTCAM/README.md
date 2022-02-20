@@ -8,4 +8,11 @@ Here is the layout of the PCB
 
 ![MODULE](assets/img/pinout.svg)
 
+The module could be placed vertical to maximize square shaped free area, for additional modules, lipo batteries, etc.
+
+![MODULE](assets/img/vertical.jpg)
+
+The board also could be placed horizontal to make room for a cylindrical battery cell.
+
+![MODULE](assets/img/horizontal.jpg)
 
