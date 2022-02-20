@@ -20,3 +20,8 @@ Sensor is placed in the area designed for camera lens
 
 ![MODULE](assets/img/sensor.jpg)
 
+On the back of the PCB there is enough free space for a bigger battery or additional electronics.
+
+![MODULE](assets/img/space.jpg)
+
+
