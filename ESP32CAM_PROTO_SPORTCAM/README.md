@@ -16,3 +16,7 @@ The board also could be placed horizontal to make room for a cylindrical battery
 
 ![MODULE](assets/img/horizontal.jpg)
 
+Sensor is placed in the area designed for camera lens
+
+![MODULE](assets/img/sensor.jpg)
+
