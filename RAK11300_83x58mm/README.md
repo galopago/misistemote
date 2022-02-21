@@ -28,15 +28,15 @@ The stamp sytle module is placed on the back of the card.
 
 ## Front
 
-All of the pins of the module are routed to pcb pads, also, space for 2 AA size battery holder .
+All of the pins of the module are routed to pcb pads, also, space for 2 AA size battery holder. There are also some traces for breadboarding
 
 ![FRONT](assets/img/front.jpg)
 
-Image sensor sees through the transparent enclosure
+Module soldered on the back
 
 ![MODULE](assets/img/module.jpg)
 
-Female headers used to raise the image sensor as close to the case as possible. There is now some free space for additional electronics.
+Female headers used for debuging or adding a "hat" card with additional electronics.
 
 ![MODULE](assets/img/space.jpg)
 
