@@ -22,7 +22,7 @@ The PCB was developed in KiCad V5.1,
 
 ## Back
 
-The stamp sytle module is placed on the back of the card.
+The stamp style module is placed on the back of the card.
 
 ![BACK](assets/img/back.jpg)
 
@@ -36,7 +36,7 @@ Module soldered on the back
 
 ![MODULE](assets/img/module.jpg)
 
-Female headers used for debuging or adding a "hat" card with additional electronics.
+Female headers used for debugging or adding a "hat" card with additional electronics.
 
 ![MODULE](assets/img/space.jpg)
 
