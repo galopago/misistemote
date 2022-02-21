@@ -20,23 +20,21 @@ The PCB was developed in KiCad V5.1,
 
 ![LAYOUT](assets/img/pinout.svg)
 
-## Back
+## SMALL MODULE
 
-The stamp style module is placed on the back of the card.
+An example showing an arduino nano with 15.24 mm separation between header rows
 
-![BACK](assets/img/back.jpg)
+![BACK](assets/img/small.jpg)
 
-## Front
+## BIG MODULE
 
-All of the pins of the module are routed to pcb pads, also, space for 2 AA size battery holder. There are also some traces for breadboarding
+An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 
-![FRONT](assets/img/front.jpg)
+![FRONT](assets/img/big.jpg)
 
-Module soldered on the back
+## ADDITIONAL SPACE
 
-![MODULE](assets/img/module.jpg)
-
-Female headers used for debugging or adding a "hat" card with additional electronics.
+Female headers used for easy reuse of the module and gives additional space for small components or modules.
 
 ![MODULE](assets/img/space.jpg)
 
