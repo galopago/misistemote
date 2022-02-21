@@ -20,6 +20,12 @@ The PCB was developed in KiCad V5.1,
 
 ![LAYOUT](assets/img/pinout.svg)
 
+## DIL IC
+
+DIL style chips mounted
+
+![BACK](assets/img/dil.jpg)
+
 ## SMALL MODULE
 
 An example showing an arduino nano with 15.24 mm separation between header rows
