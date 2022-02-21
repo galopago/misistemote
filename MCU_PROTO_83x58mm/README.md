@@ -22,7 +22,7 @@ The PCB was developed in KiCad V5.1,
 
 ## DIL IC
 
-DIL style chips mounted
+Dual-In-Line style chips mounted
 
 ![BACK](assets/img/dil.jpg)
 
