@@ -1,6 +1,6 @@
 # PROTOTYPE BOARD FOR MCU MODULES AND FITS INSIDE 100x68mm WATERPROOF HOUSING
 
-This board can host MCU modules up to 20 pin per row in a double row configuration. The minimum separation between rows is 2.54 mm and the maximum separation between rows is 27.94 mm, so most common types of MCU modules are supported. The board is designed to fit inside a generic 100x68mm (advertized as sonoff)  waterproof enclosure. 
+This board can host MCU modules up to 20 pin per row in a double row configuration. The minimum separation between rows is 2.54 mm and the maximum separation between rows is 27.94 mm, so most common types of MCU modules are supported. The board is designed to fit inside a generic 100x68mm (advertized as Sonoff switch)  waterproof enclosure. 
 
 ![PCBANDENCLOSURE](assets/img/pcbandenclosure.jpg)
 
@@ -44,8 +44,6 @@ Female headers used for easy reuse of the module, gives additional space for sma
 
 ![MODULE](assets/img/space.jpg)
 
-Panelized PCB version 
 
-![PANEL](assets/img/panel.jpg)
 
 
