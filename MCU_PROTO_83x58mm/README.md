@@ -40,7 +40,7 @@ An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 
 ## ADDITIONAL SPACE
 
-Female headers used for easy reuse of the module and gives additional space for small components or modules.
+Female headers used for easy reuse of the module, gives additional space for small components or modules.
 
 ![MODULE](assets/img/space.jpg)
 
