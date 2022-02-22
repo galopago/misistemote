@@ -1,6 +1,6 @@
 # PROTOTYPE BOARD FOR MCU MODULES AND FITS INSIDE 83x58mm WATERPROOF HOUSING
 
-This board can host MCU modules up to 20 pin per row in a double row configuration. The minimun separation between rows is 2.54 mm and the maximun separation between rows is 27.94 mm, so most common types of MCU modules are supported. The board is designed to fit inside a generic 83x58mm waterproof enclosure. 
+This board can host MCU modules up to 20 pin per row in a double row configuration. The minimum separation between rows is 2.54 mm and the maximum separation between rows is 27.94 mm, so most common types of MCU modules are supported. The board is designed to fit inside a generic 83x58mm waterproof enclosure. 
 
 ![PCBANDENCLOSURE](assets/img/pcbandenclosure.jpg)
 
@@ -22,13 +22,13 @@ The PCB was developed in KiCad V5.1,
 
 ## DIP IC
 
-Dual in-Line package chips placed
+Dual in-line package chip placed with 7.62 mm separation between pin rows
 
 ![BACK](assets/img/dil.jpg)
 
 ## SMALL MODULE
 
-An example showing an arduino nano with 15.24 mm separation between header rows
+An example showing an Arduino nano with 15.24 mm separation between header rows
 
 ![BACK](assets/img/small.jpg)
 
