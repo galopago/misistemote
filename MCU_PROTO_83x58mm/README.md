@@ -20,9 +20,9 @@ The PCB was developed in KiCad V5.1,
 
 ![LAYOUT](assets/img/pinout.svg)
 
-## DIL IC
+## DIP IC
 
-Dual-In-Line style chips mounted
+Dual in-Line package chips placed
 
 ![BACK](assets/img/dil.jpg)
 
