@@ -24,3 +24,9 @@ MCU plugged                      |Free space below                | Free space s
 ---------------------------------|--------------------------------|------------------------------
 ![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
 
+
+Connecting wires in the underside
+
+![CONNECTINGWIRES](/assets/img/connecting.jpg)
+
+
