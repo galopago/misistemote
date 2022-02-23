@@ -17,3 +17,9 @@ Small microcontroller         |Medium MCU                      | Big MCU
 ------------------------------|--------------------------------|-----------------------------
 ![](/assets/img/dil.jpg)      |![](/assets/img/small.jpg)      |![](/assets/img/big.jpg) 
 ![](/assets/img/dilspace.png) |![](/assets/img/smallspace.png) |![](/assets/img/bigspace.png)
+
+Female headers could be added to make MCU module reusable, and to gain some space below. Notice battery socket placed in available space!
+
+MCU plugged                     | Free space below
+--------------------------------|-----------------
+![](/assets/img/mcuinsocket.jpg)|![](/assets/img/spacebelow.jpg)
