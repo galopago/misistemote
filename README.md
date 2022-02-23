@@ -24,11 +24,3 @@ MCU plugged                      |Free space below                | Free space s
 ---------------------------------|--------------------------------|------------------------------
 ![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
 
-
-
-
-MCU plugged                      | Free space below               | Free space side view          ---------------------------------|--------------------------------|------------------------------
-![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
-
-
-
