@@ -13,7 +13,7 @@ The ecosystem follows 3 simple rules:
 
 The PCB design followed one simple principle: Try to place the MCU board as close as possible to a corner, maximizing the contiguos available pcb remaingin space.
 
-Small microcontroller    | Big MCU                 
--------------------------|-------------------------
-![](/assets/img/dil.jpg) | ![](/assets/img/big.jpg) 
+Small microcontroller    |Medium MCU                 | Big MCU                 
+-------------------------|---------------------------|-------------------------
+![](/assets/img/dil.jpg) |![](/assets/img/small.jpg) | ![](/assets/img/big.jpg) 
 
