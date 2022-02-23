@@ -16,4 +16,4 @@ The PCB design followed one simple principle: Try to place the MCU board as clos
 Small microcontroller         |Medium MCU                    | Big MCU                 
 ------------------------------|------------------------------|-----------------------------
 ![](/assets/img/dil.jpg)      |![](/assets/img/small.jpg)    |![](/assets/img/big.jpg) 
-![](/assets/img/dilspace.jpg) |![](/assets/img/dilspace.jpg) |![](/assets/img/dilspace.jpg)
+![](/assets/img/dilspace.png) |![](/assets/img/dilspace.png) |![](/assets/img/dilspace.png)
