@@ -20,7 +20,8 @@ Small microcontroller         |Medium MCU                      | Big MCU
 
 Female headers could be added to make MCU module reusable, and to gain some space below. Notice battery socket placed in available space!
 
-MCU plugged                     | Free space below              | Free space side view      --------------------------------|-------------------------------|------------------------------
-![](/assets/img/mcuinsocket.jpg)|![](/assets/img/spacebelow.jpg)|![](/assets/img/spaceside.jpg)
+MCU plugged                      | Free space below               | Free space side view      ---------------------------------|--------------------------------|------------------------------
+![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
+
 
 
