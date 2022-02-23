@@ -31,9 +31,9 @@ Connecting wires in the underside
 
 ## WATERPROOF ENCLOSURE
 
-The best enclosures suited for the system are the ones that doesnt need to be opened to be fixed/unfixed from the wall.
+The best enclosures suited for the system are the ones that have external mount points and doesnt need to be opened to be fixed/detached.
 
 Generic enclosure             |Sports style enclosure              
 ------------------------------|------------------------------------
 ![](/assets/img/genericfixed.jpg)      |![](/assets/img/sportsfixed.jpg)    
-![](/assets/img/genericdetached.png) |![](/assets/img/sportsdetached.jpg) 
+![](/assets/img/genericdetached.jpg) |![](/assets/img/sportsdetached.jpg) 
