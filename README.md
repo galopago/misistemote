@@ -1,7 +1,7 @@
 # VERSATILE, COMPACT AND ROBUST ELECTRONIC HARDWARE PROTOTYPING SYSTEM
 
 
-Tusistemote is modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
+Tusistemote is an Open Source, modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
 
 The ecosystem follows 3 simple rules:
 
@@ -29,4 +29,11 @@ Connecting wires in the underside
 
 ![CONNECTINGWIRES](/assets/img/connections.jpg)
 
+## WATERPROOF ENCLOSURE
 
+The best enclosures suited for the system are the ones that doesnt need to be opened to be fixed/unfixed from the wall.
+
+Generic enclosure             |Sports style enclosure              
+------------------------------|------------------------------------
+![](/assets/img/genericfixed.jpg)      |![](/assets/img/sportsfixed.jpg)    
+![](/assets/img/genericdetached.png) |![](/assets/img/sportsdetached.jpg) 
