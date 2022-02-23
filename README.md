@@ -27,6 +27,6 @@ MCU plugged                      |Free space below                | Free space s
 
 Connecting wires in the underside
 
-![CONNECTINGWIRES](/assets/img/connecting.jpg)
+![CONNECTINGWIRES](/assets/img/connections.jpg)
 
 
