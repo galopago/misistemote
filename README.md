@@ -42,5 +42,5 @@ Depending of the enclosure used there are two methods for PCB fixation: Self tap
 
 Screw fixing                  |Flexible foam fixing               
 ------------------------------|------------------------------------
-![](/assets/img/boardscrews.Jjpg) |![](/assets/img/sportsfixed.jpg)    
-![](/assets/img/boardscrewed.jpg) |![](/assets/img/sportsdetached.jpg) 
+![](/assets/img/boardscrews.Jjpg) |![](/assets/img/boardfoam.jpg)    
+![](/assets/img/boardscrewed.jpg) |![](/assets/img/boardfoamclosed.jpg) 
