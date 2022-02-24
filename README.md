@@ -53,3 +53,13 @@ Big enclosure and thick cable       |Small enclosure and thin cable
 ------------------------------------|------------------------------------
 ![](/assets/img/cableglandbig.jpg)  |![](/assets/img/cableglandsmall.jpg)    
 ![](/assets/img/cablebigsealed.jpg) |![](/assets/img/cablesmallsealed.jpg) 
+
+## SAMPLE PROJECT
+
+Temperature sensor based on ESP32 board with DS18B20 OneWire sensor, powered by a 3.2V 600mA LiFePo4 Battery. Waterproof, dustproof and wall mountable.
+
+
+Big enclosure and thick cable    |Small enclosure and thin cable
+---------------------------------|------------------------------------
+![](/assets/img/sampleproj0.jpg) |![](/assets/img/sampleproj1.jpg)    
+![](/assets/img/sampleproj2.jpg) |![](/assets/img/sampleproj3.jpg) 
