@@ -33,7 +33,14 @@ Connecting wires in the underside
 
 The best enclosures suited for the system are the ones that have external mount points and doesnt need to be opened to be fixed/detached.
 
-Generic enclosure             |Sports style enclosure              
-------------------------------|------------------------------------
-![](/assets/img/genericfixed.jpg)      |![](/assets/img/sportsfixed.jpg)    
+Generic enclosure                    |Sports style enclosure              
+-------------------------------------|------------------------------------
+![](/assets/img/genericfixed.jpg)    |![](/assets/img/sportsfixed.jpg)    
 ![](/assets/img/genericdetached.jpg) |![](/assets/img/sportsdetached.jpg) 
+
+Depending of the enclosure used there are two methods for PCB fixation: Self tapping screws or flexible foam.
+
+Screw fixing                  |Flexible foam fixing               
+------------------------------|------------------------------------
+![](/assets/img/boardscrews.Jjpg) |![](/assets/img/sportsfixed.jpg)    
+![](/assets/img/boardscrewed.jpg) |![](/assets/img/sportsdetached.jpg) 
