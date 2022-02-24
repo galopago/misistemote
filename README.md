@@ -51,5 +51,5 @@ If the project needs an external wired sensor or power cord, a cable gland shoul
 
 Big enclosure and thick cable       |Small enclosure and thin cable
 ------------------------------------|------------------------------------
-![](/assets/img/cableglandbig.jpg)  |![](/assets/img/boardfoam.jpg)    
-![](/assets/img/cablebigsealed.jpg) |![](/assets/img/boardfoamclosed.jpg) 
+![](/assets/img/cableglandbig.jpg)  |![](/assets/img/cableglandsmall.jpg)    
+![](/assets/img/cablebigsealed.jpg) |![](/assets/img/cablesmallsealed.jpg) 
