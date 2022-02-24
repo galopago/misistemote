@@ -40,7 +40,16 @@ Generic enclosure                    |Sports style enclosure
 
 Depending of the enclosure used there are two methods for PCB fixation: Self tapping screws or flexible foam.
 
-Screw fixing                  |Flexible foam fixing               
-------------------------------|------------------------------------
+Screw fixing                      |Flexible foam fixing               
+----------------------------------|------------------------------------
 ![](/assets/img/boardscrews.Jjpg) |![](/assets/img/boardfoam.jpg)    
 ![](/assets/img/boardscrewed.jpg) |![](/assets/img/boardfoamclosed.jpg) 
+
+## CABLE ENTRY
+
+If the project needs an external wired sensor or power cord, a cable gland should be used to stop exterior imprities from cause any damage to internal componets. They also offer strain relief for the internal connections.
+
+Big enclosure and thick cable       |Small enclosure and thin cable
+------------------------------------|------------------------------------
+![](/assets/img/cableglandbig.jpg)  |![](/assets/img/boardfoam.jpg)    
+![](/assets/img/cablebigsealed.jpg) |![](/assets/img/boardfoamclosed.jpg) 
