@@ -73,6 +73,5 @@ There are several board versions, each one with different personalities
 | HINT            | ENCLOSURE SIZE        | LINK                                     
 |-----------------|-----------------------|---------------------------------------------------
 | Many MCU boards | 83x58mm               | [MCU_PROTO_83x58mm](/MCU_PROTO_83x58mm)  
-| Many MCU boards | 100x68mm              | [MCU_PROTO_100x68mm](/MCU_PROTO_100x68mm)
 | ESP32-Cam       | 83x58mm               | [ESP32CAM_PROTO_83x58mm](/ESP32CAM_PROTO_83x58mm)  
-| ESP32-Cam       | Sports Cam compatible | [MCU_PROTO_100x68mm](/MCU_PROTO_100x68mm)
+| ESP32-Cam       | Sports Cam compatible | [ESP32CAM_PROTO_SPORTCAM](/ESP32CAM_PROTO_SPORTCAM)
