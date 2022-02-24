@@ -59,7 +59,20 @@ Big enclosure and thick cable       |Small enclosure and thin cable
 Temperature sensor based on ESP32 board with DS18B20 OneWire sensor, powered by a 3.2V 600mA LiFePo4 Battery. Waterproof, dustproof and wall mountable.
 
 
-Big enclosure and thick cable    |Small enclosure and thin cable
+.                                |.
 ---------------------------------|------------------------------------
 ![](/assets/img/sampleproj0.jpg) |![](/assets/img/sampleproj1.jpg)    
 ![](/assets/img/sampleproj2.jpg) |![](/assets/img/sampleproj3.jpg) 
+
+
+## Versions
+
+There are several board versions, each one with different personalities
+
+
+| HINT            | ENCLOSURE SIZE        | LINK                                     
+|-----------------|-----------------------|---------------------------------------------------
+| Many MCU boards | 83x58mm               | [MCU_PROTO_83x58mm](/MCU_PROTO_83x58mm)  
+| Many MCU boards | 100x68mm              | [MCU_PROTO_100x68mm](/MCU_PROTO_100x68mm)
+| ESP32-Cam       | 83x58mm               | [ESP32CAM_PROTO_83x58mm](/ESP32CAM_PROTO_83x58mm)  
+| ESP32-Cam       | Sports Cam compatible | [MCU_PROTO_100x68mm](/MCU_PROTO_100x68mm)
