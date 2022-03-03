@@ -3,6 +3,8 @@
 
 Tusistemote is an Open Source, modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
 
+Lea esto en otros idiomas: [English](../../README.md)
+
 The ecosystem follows 3 simple rules:
 
 * PCB: pre-made, simple and easy to replicate prototyping boards
