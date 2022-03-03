@@ -1,17 +1,16 @@
-# VERSATILE, COMPACT AND ROBUST ELECTRONIC HARDWARE PROTOTYPING SYSTEM
+# SISTEMA DE PROTOTIPADO ELECTRONICO VERSATIL, COMPACTO Y ROBUSTO
 
-
-Tusistemote is an Open Source, modular ecosystem that uses pre-made PCB to mix and match your choice of processor board. Is oriented to make small, mobile, battery powered electronic projects work in real conditions in a very short time.
+Tusistemote es un ecosistema modular, Open Source que usa circuitos impresos (PCB) prefabricados en los cuales se pueden instalar diferentes tipos de tarjetas y microcontoladores. Esta orientado para proyectos moviles, alimentados por baterias para que empiecen a funcionar en condiciones reales de uso en muy poco tiempo.
 
 Lea esto en otros idiomas: [English](../../README.md)
 
-The ecosystem follows 3 simple rules:
+El ecosistema se rige por 3 simples reglas:
 
-* PCB: pre-made, simple and easy to replicate prototyping boards
-* Enclosure: Generic, waterproof, low cost, easily available.
-* Cable entry: Cable glands for external sensors or power
+* PCB: Curcuito impreso para prototipado prefabricado, simple y facil de replicar.
+* Caja: A prueba de agua, generica barata y facil de conseguir.
+* Ingreso de cables: Se usan pasamuros para cables cuando se tengan sensores externos o alimentacion.
 
-## PCB DESIGN
+## DISEÑO DEL CIRCUITO IMPRESO
 
 The PCB design followed one simple principle: Try to place the MCU board as close as possible to a corner, maximizing the contiguous available PCB remaining space.
 
