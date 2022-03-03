@@ -25,13 +25,13 @@ MCU plugged                      |Free space below                | Free space s
 ![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
 
 
-Connecting wires in the underside
+Connecting wires on the underside
 
 ![CONNECTINGWIRES](/assets/img/connections.jpg)
 
 ## WATERPROOF ENCLOSURE
 
-The best enclosures suited for the system are the ones that have external mount points and doesnt need to be opened to be fixed/detached.
+The best enclosures suited for the system are the ones that have external mount points and doesn't need to be opened to be fixed/detached.
 
 Generic enclosure                    |Sports style enclosure              
 -------------------------------------|------------------------------------
