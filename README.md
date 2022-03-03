@@ -47,9 +47,9 @@ Screw fixing                      |Flexible foam fixing
 
 ## CABLE ENTRY
 
-If the project needs an external wired sensor or power cord, a cable gland should be used to stop exterior imprities from cause any damage to internal componets. They also offer strain relief for the internal connections.
+If the project needs an external wired sensor or power cord, a cable gland should be used to stop exterior impurities from cause any damage to internal components. They also offer strain relief for the internal connections.
 
-Big enclosure and thick cable       |Small enclosure and thin cable
+Big enclosure, thick cable       |Small enclosure, thin cable
 ------------------------------------|------------------------------------
 ![](/assets/img/cableglandbig.jpg)  |![](/assets/img/cableglandsmall.jpg)    
 ![](/assets/img/cablebigsealed.jpg) |![](/assets/img/cablesmallsealed.jpg) 
