@@ -12,53 +12,55 @@ El ecosistema se rige por 3 simples reglas:
 
 ## DISEÑO DEL CIRCUITO IMPRESO
 
-The PCB design followed one simple principle: Try to place the MCU board as close as possible to a corner, maximizing the contiguous available PCB remaining space.
+El diseño del circuito impreso se rige por un principio simple: Tratar de ubicar la tarjeta del microcontrolador lo mas cerca a una esquina, de esta forma se maximiza el espacio sobrante de forma contigua.
 
-Small microcontroller         |Medium MCU                      | Big MCU                 
+ Microcontrolador pequeño     |Tarjeta MCU mediana             | Tarjeta MCU grande                 
 ------------------------------|--------------------------------|-----------------------------
 ![](/assets/img/dil.jpg)      |![](/assets/img/small.jpg)      |![](/assets/img/big.jpg) 
 ![](/assets/img/dilspace.png) |![](/assets/img/smallspace.png) |![](/assets/img/bigspace.png)
 
-Female headers could be added to make MCU module reusable, and to gain some space below. Notice battery socket placed in available space!
+Se pueden agregar conectores header hembras para hacer que la tarjeta MCU sea desconectable y ganar algo de espacio debajo. Notese el socket para bateria ubicado en el espacio libre!
 
-MCU plugged                      |Free space below                | Free space side view                 
+
+MCU instalada                    |Espacio libre debajo            | Espacio libre vista lateral                 
 ---------------------------------|--------------------------------|------------------------------
 ![](/assets/img/mcuinsocket.jpg) |![](/assets/img/spacebelow.jpg) |![](/assets/img/spaceside.jpg) 
 
 
-Connecting wires on the underside
+Cables de conexion soldados en la cara inferior de la tarjeta
 
 ![CONNECTINGWIRES](/assets/img/connections.jpg)
 
-## WATERPROOF ENCLOSURE
+## CAJA A PRUEBA DE AGUA
 
-The best enclosures suited for the system are the ones that have external mount points and doesn't need to be opened to be fixed/detached.
+Las cajas mas adecuadas para el sistema son las que tienen puntos de fijacion externos y no requieren ser abiertas para montarlas y/o desmontarlas.
 
-Generic enclosure                    |Sports style enclosure              
+Caja generica                        |Caja para camara deportiva
 -------------------------------------|------------------------------------
 ![](/assets/img/genericfixed.jpg)    |![](/assets/img/sportsfixed.jpg)    
 ![](/assets/img/genericdetached.jpg) |![](/assets/img/sportsdetached.jpg) 
 
-Depending of the enclosure used there are two methods for PCB fixation: Self tapping screws or flexible foam.
+Dependiendo de la caja usa hay dos metodos para fijar el circuito impreso: Mediante tornillos autoperforantes o mediante espuma flexible
 
-Screw fixing                      |Flexible foam fixing               
+Fijacion mediante tornillos       |Fijacion mediante espuma flexible            
 ----------------------------------|------------------------------------
 ![](/assets/img/boardscrews.Jjpg) |![](/assets/img/boardfoam.jpg)    
 ![](/assets/img/boardscrewed.jpg) |![](/assets/img/boardfoamclosed.jpg) 
 
-## CABLE ENTRY
+## INGRESO DE CABLES
 
-If the project needs an external wired sensor or power cord, a cable gland should be used to stop exterior impurities from cause any damage to internal components. They also offer strain relief for the internal connections.
+Si el proyecto requiere de un sensor cableado externo, o un cable de alimentacion de poder, se debera usar un pasamuros para evitar
+el ingreso de impuresas que puedan dañar los componentes. Este pasamuros tambien proporctiona un alivio a la tension entre el cable y las conexiones internas.
 
-Big enclosure, thick cable       |Small enclosure, thin cable
+
+Caja grande, cable grueso           |Caja pequeña, cable delgado
 ------------------------------------|------------------------------------
 ![](/assets/img/cableglandbig.jpg)  |![](/assets/img/cableglandsmall.jpg)    
 ![](/assets/img/cablebigsealed.jpg) |![](/assets/img/cablesmallsealed.jpg) 
 
-## SAMPLE PROJECT
+## PROYECTO EJEMPLO
 
-Temperature sensor based on ESP32 board with DS18B20 OneWire sensor, powered by a 3.2V 600mA LiFePo4 Battery. Waterproof, dustproof and wall mountable.
-
+Sensor de temperatura usando una tarjeta ESP32 conectada a un sensor OneWire DS18B20, alimentado por una bateria LiFePo4 de 3.2V y 600mA. Caja a prueba de agua, polvo y montable en pared.
 
 .                                |.
 ---------------------------------|------------------------------------
@@ -66,13 +68,13 @@ Temperature sensor based on ESP32 board with DS18B20 OneWire sensor, powered by 
 ![](/assets/img/sampleproj2.jpg) |![](/assets/img/sampleproj3.jpg) 
 
 
-## Versions
+## Versiones
 
-There are several board versions, each one with different personalities
+Existen varias versiones de la tarjeta, cada una tiene su propia personalidad
 
 
-| HINT            | ENCLOSURE SIZE        | LINK                                     
-|-----------------|-----------------------|---------------------------------------------------
-| Many MCU boards | 83x58mm               | [MCU_PROTO_83x58mm](/MCU_PROTO_83x58mm)  
-| ESP32-Cam       | 83x58mm               | [ESP32CAM_PROTO_83x58mm](/ESP32CAM_PROTO_83x58mm)  
-| ESP32-Cam       | Sports Cam compatible | [ESP32CAM_PROTO_SPORTCAM](/ESP32CAM_PROTO_SPORTCAM)
+| DESCRIPCION     | TAMAÑO DE LA CAJA          | ENLACE                                   
+|-----------------|----------------------------|---------------------------------------------------
+| Diferentes MCU  | 83x58mm                    | [MCU_PROTO_83x58mm](/MCU_PROTO_83x58mm)  
+| ESP32-Cam       | 83x58mm                    | [ESP32CAM_PROTO_83x58mm](/ESP32CAM_PROTO_83x58mm)  
+| ESP32-Cam       | Caja para camara deportiva | [ESP32CAM_PROTO_SPORTCAM](/ESP32CAM_PROTO_SPORTCAM)
