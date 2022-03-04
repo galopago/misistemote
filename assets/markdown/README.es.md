@@ -1,13 +1,13 @@
 # SISTEMA DE PROTOTIPADO ELECTRONICO VERSATIL, COMPACTO Y ROBUSTO
 
-Tusistemote es un ecosistema modular, Open Source que usa circuitos impresos (PCB) prefabricados en los cuales se pueden instalar diferentes tipos de tarjetas y microcontoladores. Esta orientado para proyectos moviles, alimentados por baterias para que empiecen a funcionar en condiciones reales de uso en muy poco tiempo.
+Tusistemote es un ecosistema modular, Open Source que usa circuitos impresos (PCB) prefabricados en los cuales se pueden instalar diferentes tipos de tarjetas y microcontroladores. Esta orientado para proyectos moviles, alimentados por baterias para que empiecen a funcionar en condiciones reales de uso en muy poco tiempo.
 
 Lea esto en otros idiomas: [English](../../README.md)
 
 El ecosistema se rige por 3 simples reglas:
 
-* PCB: Curcuito impreso para prototipado prefabricado, simple y facil de replicar.
-* Caja: A prueba de agua, generica barata y facil de conseguir.
+* PCB: Circuito impreso para prototipado prefabricado, simple y facil de replicar.
+* Caja: A prueba de agua, generica, barata y facil de conseguir.
 * Ingreso de cables: Se usan pasamuros para cables cuando se tengan sensores externos o alimentacion.
 
 ## DISEÑO DEL CIRCUITO IMPRESO
@@ -19,7 +19,7 @@ El diseño del circuito impreso se rige por un principio simple: Tratar de ubica
 ![](/assets/img/dil.jpg)      |![](/assets/img/small.jpg)      |![](/assets/img/big.jpg) 
 ![](/assets/img/dilspace.png) |![](/assets/img/smallspace.png) |![](/assets/img/bigspace.png)
 
-Se pueden agregar conectores header hembras para hacer que la tarjeta MCU sea desconectable y ganar algo de espacio debajo. Notese el socket para bateria ubicado en el espacio libre!
+Se pueden agregar conectores header hembras para hacer que la tarjeta MCU sea desconectable y ganar algo de espacio debajo. ¡Notese el soporte para bateria ubicado en el espacio libre!
 
 
 MCU instalada                    |Espacio libre debajo            | Espacio libre vista lateral                 
@@ -40,7 +40,7 @@ Caja generica                        |Caja para camara deportiva
 ![](/assets/img/genericfixed.jpg)    |![](/assets/img/sportsfixed.jpg)    
 ![](/assets/img/genericdetached.jpg) |![](/assets/img/sportsdetached.jpg) 
 
-Dependiendo de la caja usa hay dos metodos para fijar el circuito impreso: Mediante tornillos autorroscantes o mediante espuma flexible
+Dependiendo de la caja usada hay dos metodos para fijar el circuito impreso: Mediante tornillos autorroscantes o mediante espuma flexible
 
 Fijacion mediante tornillos       |Fijacion mediante espuma flexible            
 ----------------------------------|------------------------------------
@@ -50,7 +50,7 @@ Fijacion mediante tornillos       |Fijacion mediante espuma flexible
 ## INGRESO DE CABLES
 
 Si el proyecto requiere de un sensor cableado externo, o un cable de alimentacion de poder, se debera usar un pasamuros para evitar
-el ingreso de impuresas que puedan dañar los componentes. Este pasamuros tambien proporctiona un alivio a la tension entre el cable y las conexiones internas.
+el ingreso de impurezas que puedan dañar los componentes. Este pasamuros tambien proporciona un alivio a la tension mecanica entre el cable y las conexiones internas.
 
 
 Caja grande, cable grueso           |Caja pequeña, cable delgado
@@ -60,7 +60,7 @@ Caja grande, cable grueso           |Caja pequeña, cable delgado
 
 ## PROYECTO EJEMPLO
 
-Sensor de temperatura usando una tarjeta ESP32 conectada a un sensor OneWire DS18B20, alimentado por una bateria LiFePo4 de 3.2V y 600mA. Caja a prueba de agua, polvo y montable en pared.
+Sensor de temperatura usando una tarjeta ESP32 conectada a un sensor OneWire DS18B20, alimentado por una bateria LiFePo4 de 3.2V y 600mA. Caja a prueba de agua, polvo y instalable en pared.
 
 .                                |.
 ---------------------------------|------------------------------------
