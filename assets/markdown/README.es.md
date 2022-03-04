@@ -40,7 +40,7 @@ Caja generica                        |Caja para camara deportiva
 ![](/assets/img/genericfixed.jpg)    |![](/assets/img/sportsfixed.jpg)    
 ![](/assets/img/genericdetached.jpg) |![](/assets/img/sportsdetached.jpg) 
 
-Dependiendo de la caja usa hay dos metodos para fijar el circuito impreso: Mediante tornillos autoperforantes o mediante espuma flexible
+Dependiendo de la caja usa hay dos metodos para fijar el circuito impreso: Mediante tornillos autorroscantes o mediante espuma flexible
 
 Fijacion mediante tornillos       |Fijacion mediante espuma flexible            
 ----------------------------------|------------------------------------
