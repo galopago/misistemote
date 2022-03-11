@@ -77,6 +77,6 @@ Existen varias versiones de la tarjeta, cada una tiene su propia personalidad
 
 | DESCRIPCION     | TAMAÑO DE LA CAJA          | ENLACE                                   
 |-----------------|----------------------------|---------------------------------------------------
-| Diferentes MCU  | 83x58mm                    | [MCU_PROTO_83x58mm](/MCU_PROTO_83x58mm)  
-| ESP32-Cam       | 83x58mm                    | [ESP32CAM_PROTO_83x58mm](/ESP32CAM_PROTO_83x58mm)  
-| ESP32-Cam       | Caja para camara deportiva | [ESP32CAM_PROTO_SPORTCAM](/ESP32CAM_PROTO_SPORTCAM)
+| Diferentes MCU  | 83x58mm                    | [mcu-proto-83x58mm](/mcu-proto-83x58mm)  
+| ESP32-Cam       | 83x58mm                    | [esp32cam-proto-83x58mm](/esp32cam-proto-83x58mm)  
+| ESP32-Cam       | Caja para camara deportiva | [esp32cam-proto-sportcam](/esp32cam-proto-sportcam)
