@@ -40,7 +40,7 @@ An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 
 ## DOUBLE ROW HEADER MODULE
 
-An example showing an RPI ZERO with 2x20 header with 2.54 mm separation between between pins
+An example showing an RPI ZERO with 2x20 header with 2.54 mm separation between pins
 
 ![FRONT](assets/img/doublerowheader.jpg)
 
