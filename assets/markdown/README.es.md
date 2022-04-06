@@ -1,8 +1,8 @@
-# TUSISTEMOTE
+# MISISTEMOTE
 
 ## SISTEMA DE PROTOTIPADO ELECTRONICO VERSATIL, COMPACTO Y ROBUSTO
 
-Tusistemote es un ecosistema modular, Open Source que usa circuitos impresos (PCB) prefabricados en los cuales se pueden instalar diferentes tipos de tarjetas y microcontroladores. Esta orientado para proyectos moviles, alimentados por baterias para que empiecen a funcionar en condiciones reales de uso en muy poco tiempo.
+Misistemote es un ecosistema modular, Open Source que usa circuitos impresos (PCB) prefabricados en los cuales se pueden instalar diferentes tipos de tarjetas y microcontroladores. Esta orientado para proyectos moviles, alimentados por baterias para que empiecen a funcionar en condiciones reales de uso en muy poco tiempo.
 
 Lea esto en otros idiomas: [English](../../README.md)
 
