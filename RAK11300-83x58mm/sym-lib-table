@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name RAKWIRELESS)(type Legacy)(uri ${KIPRJMOD}/library/RAKWIRELESS.lib)(options "")(descr ""))
-  (lib (name RAK11300_LORA_ADAPTABLE_NODE-rescue)(type Legacy)(uri ${KIPRJMOD}/RAK11300_LORA_ADAPTABLE_NODE-rescue.lib)(options "")(descr ""))
-)
