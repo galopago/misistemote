@@ -52,7 +52,7 @@ Female headers used for easy reuse of the module, gives additional space for sma
 
 ## ENCLOSURE COMPATIBILITY
 
-The PCB have multiple mounting holes, allowing to be mounted on the two most common types of enclosure
+The PCB has multiple mounting holes, allowing to be mounted on the two most common types of enclosure of this size.
 
 ![MODULE](assets/img/compatibility.jpg)
 
