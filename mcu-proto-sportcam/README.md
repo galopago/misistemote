@@ -1,6 +1,6 @@
-# ESP32-CAM HOST BOARD THAT FITS INSIDE WATERPROOF SPORTSCAM HOUSING
+# MCU HOST BOARD THAT FITS INSIDE WATERPROOF SPORTSCAM HOUSING
 
-The board is designed to fit inside a generic waterproof enclosure compatible with cameras like Go Pro hero 3, SJCAM SJ400, etc. 
+The board can host MCU modules up to 20 pins per row in a double row configuration.is designed to fit inside a generic waterproof enclosure compatible with cameras like Go Pro hero 3, SJCAM SJ400, etc. 
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
@@ -19,11 +19,9 @@ The PCB was developed in KiCad V5.1,
 
 ![MODULE](assets/img/pinout.svg)
 
-## Vertical
-
-The module could be placed vertically to maximize square shaped free area, for additional modules, LiPo batteries, etc. There is no room for the SD card in this configuration.
-
-![MODULE](assets/img/vertical.jpg)
+## DIP IC
+Dual in-line package chip placed with 7.62 mm separation between pin rows
+![MODULE](assets/img/dil.jpg)
 
 ## Horizontal
 
