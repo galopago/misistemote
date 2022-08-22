@@ -29,8 +29,9 @@ Dual in-line package chip placed with 7.62 mm separation between pin rows
 An example showing an Arduino nano with 15.24 mm separation between header rows
 ![MODULE](assets/img/smalll.jpg)
 
-Image sensor is placed in the area designed for camera lenses
+## BIG MODULE
 
+An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 ![MODULE](assets/img/sensor.jpg)
 
 On the back of the PCB there is enough free space for a bigger battery or additional electronics.
