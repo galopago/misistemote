@@ -27,12 +27,12 @@ Dual in-line package chip placed with 7.62 mm separation between pin rows
 ## SMALL MODULE
 
 An example showing an Arduino nano with 15.24 mm separation between header rows
-![MODULE](assets/img/smalll.jpg)
+![MODULE](assets/img/small.jpg)
 
 ## BIG MODULE
 
 An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
-![MODULE](assets/img/sensor.jpg)
+![MODULE](assets/img/big.jpg)
 
 On the back of the PCB there is enough free space for a bigger battery or additional electronics.
 
