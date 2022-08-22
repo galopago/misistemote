@@ -20,14 +20,14 @@ The PCB was developed in KiCad V5.1,
 ![MODULE](assets/img/pinout.svg)
 
 ## DIP IC
+
 Dual in-line package chip placed with 7.62 mm separation between pin rows
 ![MODULE](assets/img/dil.jpg)
 
-## Horizontal
+## SMALL MODULE
 
-The board also could be placed horizontally to make room for a cylindrical battery cell.
-
-![MODULE](assets/img/horizontal.jpg)
+An example showing an Arduino nano with 15.24 mm separation between header rows
+![MODULE](assets/img/smalll.jpg)
 
 Image sensor is placed in the area designed for camera lenses
 
