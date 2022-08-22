@@ -34,6 +34,11 @@ An example showing an Arduino nano with 15.24 mm separation between header rows
 An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 ![MODULE](assets/img/big.jpg)
 
+## DOUBLE ROW HEADER MODULE
+
+An example showing a double row header with 2.54 mm separation between pins
+![MODULE](assets/img/doublerow.jpg)
+
 On the back of the PCB there is enough free space for a bigger battery or additional electronics.
 
 ![MODULE](assets/img/space.jpg)
