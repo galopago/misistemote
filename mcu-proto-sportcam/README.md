@@ -39,8 +39,9 @@ An example showing a NODE MCU V3 with 27.94 mm separation between header rows.
 An example showing a double row header with 2.54 mm separation between pins
 ![MODULE](assets/img/doublerow.jpg)
 
-On the back of the PCB there is enough free space for a bigger battery or additional electronics.
+## ADDITIONAL SPACE
 
+On the back of the PCB there is enough free space for a bigger battery or additional electronics.
 ![MODULE](assets/img/space.jpg)
 
 Panelized PCB version 
