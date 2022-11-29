@@ -57,6 +57,16 @@ Big enclosure, thick cable       |Small enclosure, thin cable
 ![](/assets/img/cableglandbig.jpg)  |![](/assets/img/cableglandsmall.jpg)    
 ![](/assets/img/cablebigsealed.jpg) |![](/assets/img/cablesmallsealed.jpg) 
 
+## CABLE ENTRY - ALTERNATIVE METHOD
+
+USB C connector for panel mount, provides power and USB 2.0 data signals. Use drilling helper found here [Panel mount drilling helper](https://github.com/galopago/panel-mount-drill-layouts)
+
+.                                |.
+---------------------------------|------------------------------------
+![](/assets/img/usbcpowerpanelconnector.jpg) |![](/assets/img/paper.jpg)    
+![](/assets/img/drills.jpg) |![](/assets/img/usbcpowerpanel.jpg) 
+
+
 ## SAMPLE PROJECT
 
 Temperature sensor based on ESP32 board with DS18B20 OneWire sensor, powered by a 3.2V 600mA LiFePo4 Battery. Waterproof, dustproof and wall mountable.
