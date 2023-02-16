@@ -4,6 +4,8 @@ The board is designed to fit inside a generic 83x58mm waterproof enclosure.
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
+Read this in other languages: [Portugues](/assets/md/README.pt.md)
+
 ## How to use this repository
 
 The PCB was developed in KiCad V5.1,
