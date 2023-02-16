@@ -2,7 +2,7 @@
 
 A placa foi projetada para caber dentro de uma caixa genérica à prova d'água de 83x58mm.
 
-![MODULE](assets/img/pcbandenclosure.jpg)
+![MODULE](/esp32cam-proto-83x58mm/assets/img/pcbandenclosure.jpg)
 
 ## Como usar este repositório
 
