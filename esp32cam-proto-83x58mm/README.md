@@ -4,7 +4,7 @@ The board is designed to fit inside a generic 83x58mm waterproof enclosure.
 
 ![MODULE](assets/img/pcbandenclosure.jpg)
 
-Read this in other languages: [Portugues](/esp32cam-proto-83x58mm/assets/md/README.pt.md)
+Read this in other languages: [Español](/esp32cam-proto-83x58mm/assets/md/README.es.md) , [Portugues](/esp32cam-proto-83x58mm/assets/md/README.pt.md)
 
 ## How to use this repository
 
