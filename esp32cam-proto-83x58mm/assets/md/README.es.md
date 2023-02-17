@@ -23,25 +23,26 @@ La tarjeta de circuito impreso fue desarrollada en KiCad V5.1.
 
 ## Vertical
 
-O módulo pode ser posicionado verticalmente para maximizar a área livre, para módulos adicionais, baterias LiPo, etc.
+El modulo puede ser posicionado verticalmente para maximizar el area, para adicionar otros modulos o baterias LiPo, etc.
+
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/vertical.jpg)
 
 ## Horizontal
 
-A placa também pode ser posicionada horizontalmente para acomodar uma bateria cilíndrica.
+El modulo tambien puede ser posicionado horizontalmente para acomodar una bateria cilindrica
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/horizontal.jpg)
 
-A câmera de imagem vê através do caixa transparente.
+La camara puede "ver" a traves de la caja transparente
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/sensor.jpg)
 
-"Barra de pinos fêmea são usados para elevar o sensor de imagem o mais próximo possível da caixa. Agora, há algum espaço livre para eletrônicos adicionais."
+Conector header hembra usado para elevar el sensor de imagen lo mas proximo posible a la tapa de la caja. De esta forma se obtiene un poco de espacio libre para instalar algunos componentes debajo.
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/space.jpg)
 
-Versão em painel da placa de circuito impresso.
+Circuito impreso en version panel multiple
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/panel.jpg)
 
