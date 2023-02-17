@@ -4,7 +4,7 @@ la tarjeta esta diseñado para instalarse dentro de una caja impermeable generic
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/pcbandenclosure.jpg)
 
-Lea esto en otros idiomas: [English](/esp32cam-proto-83x58mm/README.md) [Portugues](/esp32cam-proto-83x58mm/assets/md/README.pt.md)
+Lea esto en otros idiomas: [English](/esp32cam-proto-83x58mm/README.md) , [Portugues](/esp32cam-proto-83x58mm/assets/md/README.pt.md)
 
 ## Como usar este repositório
 
