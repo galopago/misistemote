@@ -4,7 +4,7 @@ A placa foi projetada para caber dentro de uma caixa genérica à prova d'água 
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/pcbandenclosure.jpg)
 
-Leia isso em outros idiomas: [English](/esp32cam-proto-83x58mm/README.md)
+Leia isso em outros idiomas: [English](/esp32cam-proto-83x58mm/README.md),[Español](/esp32cam-proto-83x58mm/assets/md/README.es.md)
 
 ## Como usar este repositório
 
