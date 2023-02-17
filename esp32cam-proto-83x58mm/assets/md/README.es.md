@@ -1,4 +1,4 @@
-# TARJETA PARA ESP32-CAM QUE SE ADAPTA A CAJA IMPERMEABLE DE 83x58mm.
+# TARJETA PARA ESP32-CAM PARA CAJA IMPERMEABLE DE 83x58mm.
 
 la tarjeta esta diseñado para instalarse dentro de una caja impermeable generica de 83x58mm.
 
@@ -6,18 +6,18 @@ la tarjeta esta diseñado para instalarse dentro de una caja impermeable generic
 
 Lea esto en otros idiomas: [English](/esp32cam-proto-83x58mm/README.md) , [Portugues](/esp32cam-proto-83x58mm/assets/md/README.pt.md)
 
-## Como usar este repositório
+## Como usar este repositorio
 
-A placa de circuito impresso foi desenvolvida no KiCad V5.1.
+La tarjeta de circuito impreso fue desarrollada en KiCad V5.1.
 
-## Estrutura do diretório
+## Estrutura de directorios
 
-* A pasta raiz contém arquivos de modelo do KiCad: projeto, esquema e PCB
-* A pasta /modules contém footprints adicionais necessários para editar a placa de circuito impresso
-* A pasta /gerber contém arquivos prontos para fabricação.
-* A pasta /assets contém arquivos de suporte para readme.md.
+* La carpeta raiz contiene archivos fuente de KiCad: proyecto, esquematico y PCB
+* La carpeta /modules contiene footprints adicionales necesarios para editar la placa de circuito impreso
+* La carpeta /gerber contiene archivos listor para fabricacion.
+* La carpeta /assets contiene archivos de suporte para readme.md.
 
-### layout da placa de circuito impresso
+### disposicion de la tarjeta de circuito impresso
 
 ![MODULE](/esp32cam-proto-83x58mm/assets/img/pinout.svg)
 
