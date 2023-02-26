@@ -92,3 +92,5 @@ There are several board versions, each one with different personalities
 | Many MCU boards | Sports Cam compatible | [mcu-proto-sportcam](/mcu-proto-sportcam)  
 | ESP32-Cam       | 83x58mm               | [esp32cam-proto-83x58mm](/esp32cam-proto-83x58mm)  
 | ESP32-Cam       | Sports Cam compatible | [esp32cam-proto-sportcam](/esp32cam-proto-sportcam)
+
+Misistemote is an open source project by [Galopago](https://galopago.github.io/)
