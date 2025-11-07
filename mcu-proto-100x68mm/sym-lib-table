@@ -1,2 +1,4 @@
 (sym_lib_table
+  (version 7)
+  (lib (name "MCU_PROTO_100x68mm-rescue")(type "KiCad")(uri "${KIPRJMOD}/MCU_PROTO_100x68mm-rescue.kicad_sym")(options "")(descr ""))
 )
