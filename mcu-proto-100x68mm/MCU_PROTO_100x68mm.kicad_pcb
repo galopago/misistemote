@@ -34,11 +34,10 @@
   )
 
   (setup
-    (pad_to_mask_clearance 0.051)
-    (solder_mask_min_width 0.25)
+    (pad_to_mask_clearance 0)
     (pcbplotparams
       (layerselection 0x00010f0_ffffffff)
-      (plot_on_all_layers_selection 0x0000000_00000000)
+      (plot_on_all_layers_selection 0x0001000_00000000)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes false)
@@ -34050,7 +34049,7 @@
         (xy 173.754424 144.641189)
         (xy 173.754425 144.641189)
         (xy 173.754427 144.641191)
-        (xy 173.864215 144.700605)
+        (xy 173.828227 144.681129)
         (xy 173.952426 144.748342)
         (xy 174.165365 144.821444)
         (xy 174.387431 144.8585)
@@ -36618,9 +36617,7 @@
         (xy 111.80114 144.198792)
         (xy 111.924276 144.387265)
         (xy 111.924284 144.387276)
-        (xy 112.030731 144.502906)
-        (xy 112.07676 144.552906)
-        (xy 112.076763 144.552908)
+        (xy 112.076756 144.552902)
         (xy 112.076766 144.552911)
         (xy 112.193662 144.643895)
         (xy 112.234475 144.700605)
